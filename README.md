@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Matrix72, a junior student in C.S.
+I'm Matrix72, a junior student studying C.S.
 
 - 🔭 I’m currently working on front-end development.
 - 🌱 I’m currently learning machine learning, especially federated learning and NLP
