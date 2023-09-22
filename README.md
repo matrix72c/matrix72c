@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-I'm Matrix72, a senior student studying C.S.
+I'm Matrix72, a postgraduate student studying C.S at SEU.
 
-- 🔭 I was working on full stack web development previously.
-- 🌱 I’m currently studying machine learning, especially ML system and ML security.
+- 🔭 In the past, I worked as a full-stack developer and interned @Microsoft.
+- 🌱 I’m currently involved in researching ML system and ML security.
 - 📫 You can reach me at matrix72c@gmail.com
 
 ![Matrix72's GitHub stats](https://github-readme-stats.vercel.app/api?username=matrix72c&theme=react&show_icons=true)
