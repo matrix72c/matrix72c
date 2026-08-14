@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Matrix72, a postgraduate student studying C.S at SEU.
+I'm Matrix72, a incoming Ph.D student studying C.S at SH AILAB and ZJU.
 
 - 🔭 In the past, I worked as a full-stack developer.
 - 🌱 I’m currently involved in researching Trustworthy ML and ML system.
