@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Matrix72, a PhD student in Computer Science at Shanghai AI Lab and Zhejiang University.
+I'm Matrix72, a PhD student studying Computer Science at Shanghai AI Lab and Zhejiang University.
 
 My research focuses on trustworthy LLMs and ML systems.
 
